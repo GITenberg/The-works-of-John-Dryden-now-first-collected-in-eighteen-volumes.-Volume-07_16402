@@ -1,0 +1,43 @@
+_repo: The-works-of-John-Dryden-now-first-collected-in-eighteen-volumes.-Volume-07_16402
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dryden, John
+    birthdate: 1631
+    deathdate: 1700
+    gutenberg_agent_id: '807'
+    url: http://www.gutenberg.org/2009/agents/807
+    wikipedia: http://en.wikipedia.org/wiki/John_Dryden
+  editor:
+    agent_name: Scott, Walter
+    aliases:
+    - Cleishbotham, Jedediah
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_issued: '2005-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16402'
+  lccn: '01000503'
+language: en
+production_note: "Produced by Jonathan Ingram, Fred Robinson and the Online\r\nDistributed\
+  \ Proofreading Team at http://www.pgdp.net"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature'
+- !lcc 'PR'
+tableOfContents: "The Duke of Guise\r\nAlbion and Albanius\r\nDon Sebastian"
+title: The Works of John Dryden, now first collected in eighteen volumes. Volume 07
+url: http://www.gutenberg.org/ebooks/16402
